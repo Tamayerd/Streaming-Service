@@ -59,6 +59,7 @@ body {
     height: 100px;
     width: 100%;
     background-color:#10100f;
+    position: sticky;
    
 }
 
